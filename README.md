@@ -1,5 +1,5 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
-<h1 align="center">Hi there 👋, I'm Łukasz (or Lucas, whatever you preffer). Welcome to my profile :muscle:</h1>
+<h1 align="center">Hi there 👋, I'm Łukasz (or Lucas, whatever you preffer).<br>:muscle: Welcome to my profile :muscle:</h1>
 <h3 align="center">I'm a person who likes writting code as much as loves his children and doing workouts at the gym.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyboyz&label=Profile%20views&color=0e75b6&style=flat" alt="luckyboyz" /> </p>
